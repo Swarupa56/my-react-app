@@ -1,0 +1,89 @@
+{
+  "bikes": [
+    {
+      "id": "1",
+      "name": "Hero Splendor",
+      "image": "https://th.bing.com/th/id/OIP.ox5krs7DqaUgFKW1cjGLHQHaEi?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "hourly_rate": "50",
+      "bike_number": 1,
+      "availableBikes": 2,
+      "totalBikes": 5
+    },
+    {
+      "id": "2",
+      "name": "Bajaj Pulsar",
+      "image": "https://th.bing.com/th/id/OIP.ox5krs7DqaUgFKW1cjGLHQHaEi?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "hourly_rate": "51",
+      "bike_number": 2,
+      "availableBikes": 2,
+      "totalBikes": 4
+    },
+    {
+      "id": "3",
+      "name": "Royal Enfield",
+      "image": "https://th.bing.com/th/id/OIP.ox5krs7DqaUgFKW1cjGLHQHaEi?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "hourly_rate": "52",
+      "bike_number": 3,
+      "availableBikes": 2,
+      "totalBikes": 3
+    },
+    {
+      "id": "4",
+      "name": "TVS Apache",
+      "image": "https://th.bing.com/th/id/OIP.ox5krs7DqaUgFKW1cjGLHQHaEi?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "hourly_rate": "49",
+      "bike_number": 4,
+      "availableBikes": 3,
+      "totalBikes": 3
+    },
+    {
+      "id": "5",
+      "name": "Yamaha",
+      "image": "https://th.bing.com/th/id/OIP.ox5krs7DqaUgFKW1cjGLHQHaEi?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "hourly_rate": "54",
+      "bike_number": 5,
+      "availableBikes": 2,
+      "totalBikes": 5
+    },
+    {
+      "id": "6",
+      "name": "Hero Honda",
+      "image": "https://th.bing.com/th/id/OIP.ox5krs7DqaUgFKW1cjGLHQHaEi?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "hourly_rate": "55",
+      "bike_number": 6,
+      "availableBikes": 2,
+      "totalBikes": 3
+    },
+    {
+      "id": "7",
+      "name": "Hunter 350",
+      "image": "https://th.bing.com/th/id/OIP.ox5krs7DqaUgFKW1cjGLHQHaEi?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "hourly_rate": "56",
+      "bike_number": 7,
+      "availableBikes": 2,
+      "totalBikes": 3
+    }
+  ],
+  "bookings": [
+    {
+      "id": "90db",
+      "name": "rupa",
+      "phone": "81256888",
+      "pickup": "2024-04-25",
+      "dropoff": "2024-04-26",
+      "completed": true,
+      "bikeID": "1",
+      "totalAmount": 1200
+    },
+    {
+      "id": "a156",
+      "name": "Lalitha",
+      "phone": "357899",
+      "pickup": "2024-04-28",
+      "dropoff": "2024-04-29",
+      "completed": false,
+      "bikeID": "2",
+      "totalAmount": 1224
+    }
+  ]
+}
